@@ -1,0 +1,87 @@
+- layout: left
+  name: RL agent for Brainvita
+  link: aakash94.github.io/Brainvita/
+  github: aakash94/Brainvita
+  #quote: >Now with the environment included.
+  description: | # this will include new lines to allow paragraphs
+    A RL approach to the classic game of Brainvita, that does not involve any search or look ahead. Also includes the environment.
+
+- layout: left
+  name: Reward based ε-decay.
+  link: aakash94.github.io/Reward-Based-Epsilon-Decay
+  github: aakash94/RED/blob/master/RewardBasedExplorationDecay.py
+  #quote: >"Interesting!" - some random person on reddit.
+  description: | # this will include new lines to allow paragraphs
+    An approach to solve the classic OpenAI problem of cartpole, with focus on using a more sophisticated exploration strategy. [Preprint.](https://www.arxiv.org/abs/1910.13701)
+
+- layout: left
+  name: UpDR
+  #link: aakash94.github.io/Reward-Based-Epsilon-Decay
+  github: aakash94/UpDR
+  #quote: >"Interesting!" - some random person on reddit.
+  description: | # this will include new lines to allow paragraphs
+    Use CNNs to restore colour in washed out images.
+
+- layout: left
+  name: Capsule Networks
+  #link: github.com/sproogen
+  github: aakash94/DeepLearningBasics/blob/master/4ConvolutionalNeuralNetwork/5_Capsule.py
+  #quote: > This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    Basic implementation of Capsule networks with [dynamic routing between capsules](https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf) in PyTorch on MNIST.
+
+- layout: left
+  name: Stroke Width Transform
+  #link: github.com/sproogen
+  #github: sproogen/resume-theme
+  #quote: >This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    A fast and optimized implementation of [stroke width transform](https://www.microsoft.com/en-us/research/publication/stroke-width-transform/) by Microsoft in C++
+
+- layout: left
+  name: Motion Controller for VLC media player
+  #link: github.com/sproogen
+  #github: sproogen/resume-theme
+  #quote: >This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    Windows application to control playback on [VLC media player](https://www.videolan.org/vlc/index.html) with gestures. Camera or on-board webcam is used as a source of input.
+
+- layout: left
+  name: Indian vehicle number plate Scanner
+  #link: github.com/sproogen
+  #github: sproogen/resume-theme
+  #quote: >This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    Android application that fetches details of a registered Indian vehicle when a number or number plate image is presented.
+
+- layout: left
+  name: Student Placement Prediction
+  #link: github.com/sproogen
+  #github: sproogen/resume-theme
+  #quote: >This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    Using various data mining techniques to predict the placement performance of a final year B-Tech student in MIT Manipal.
+
+- layout: left
+  name: Stencil Matching
+  link: aakash94.github.io/StencilMatching/
+  github: aakash94/StencilMatching
+  #quote: > Is this really worth a patent?
+  description: | # this will include new lines to allow paragraphs
+    Fast lightweight and surprisingly robust approach to classifying certain type of images based on shared static components.
+
+- layout: left
+  name: PyTorch Deep Learning
+  #link: github.com/sproogen
+  github: aakash94/DeepLearningBasics
+  #quote: >This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    Code and examples of basic deep learning concepts in PyTorch for easy reference.
+
+- layout: left
+  name: Search Results Relevance
+  #link: github.com/sproogen
+  github: aakash94/MSAI
+  #quote: >This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    Preprocess and experiment with the Microsoft search results dataset to increase relevance of search result.

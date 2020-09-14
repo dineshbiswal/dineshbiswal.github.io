@@ -1,0 +1,13 @@
+- layout: left
+  name: Biju Pattnaik University of Technology
+  dates: 2008 - 2012
+  qualification: B Tech. Electronics and Communications Engineering
+  description: | # this will include new lines to allow paragraphs.
+- layout: left
+  name: International Institute of Information Technology,Bengaluru(IIIT)
+  dates: 2020
+  qualification: Post Graduate Diploma in Machine Learning
+  description: | # this will include new lines to allow paragraphs
+   Currently continuing.
+
+

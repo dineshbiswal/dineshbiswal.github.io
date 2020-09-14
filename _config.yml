@@ -1,1 +1,62 @@
-theme: jekyll-theme-architect
+# Site
+repository: sproogen/resume-theme
+# favicon: images/favicon.ico
+
+# Personal info
+name: Dinesh Biswal
+title: Software Engineer (ML Engineer and Java Developer)
+email: dinesh.biswal07@gmail.com
+website: dineshbiswal.github.io
+
+# Social links
+# twitter_username: facespics
+github_username:  dineshbiswal
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: chillwildlife
+linkedin_username: dinesh-biswal
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpeg
+about_content: | # this will include new lines to allow paragraphs
+  Very curious and I love troubleshooting.
+
+  |Interested in: <mark>Machine Learning</mark>, <mark>Deep Learning</mark>
+  |Libraries    : <mark>Tensor Flow</mark>, <mark>Scikit Learn</mark>
+  |Languages    : <mark>Java</mark>, <mark>Python</mark>
+
+# Projects Section
+projects_title: Projects and POCs
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in puzzle/problem solving and software engineering, some of my other interests and hobbies are:
+   - Music
+   - Watching Cartoons
+   - Memes
+   - Sleepings
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag

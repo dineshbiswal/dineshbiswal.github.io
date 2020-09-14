@@ -1,0 +1,32 @@
+- layout: left
+  company: Caavo
+  link: caavo.com
+  job_title: Computer Vision
+  dates: September 2017 - Present
+  #quote: >One search. One place. One control.
+  description: | # this will include new lines to allow paragraphs
+    Identifying, controlling and automating  TVs and devices based on images from screen. Projects showcased at CES 2018 & 2019. A provisional patent on image classification.
+
+- layout: left
+  company: VMware
+  link: vmware.com
+  job_title: Intern
+  dates: January 2017 – June 2017
+  #quote: >Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  description: | # this will include new lines to allow paragraphs
+    Performance and Log monitoring system with web-based front end. RESTful Spring mvc webapp, to assist in automation and dynamic deployment.
+
+- layout: left
+  company: ShipMyCargo
+  #link: shipmycargo.net
+  job_title: Intern
+  dates: May - August 2016
+  description: | # this will include new lines to allow paragraphs
+    Android app for easy data collection.
+
+- layout: left
+  company: Ranjit Service Station
+  job_title: Freelancing
+  dates: May 2015
+  description: | # this will include new lines to allow paragraphs
+    Android app to manage fuel orders from depot.
